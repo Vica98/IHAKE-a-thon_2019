@@ -1,0 +1,25 @@
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h2
+{
+  background-color: white;
+  color: black;
+}
+
+p
+{
+  background-color: white;
+  color: black;
+}
+
+.carousel .carousel-item {
+    transition-duration: 1s;
+}
